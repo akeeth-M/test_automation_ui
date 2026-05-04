@@ -1,0 +1,12 @@
+{
+  "name": "itpm-playwright-tests",
+  "version": "1.0.0",
+  "description": "Playwright automation tests for Pixels Suite",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
