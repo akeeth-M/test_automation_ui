@@ -1,1 +1,1 @@
-https://github.com/akeeth-M/it3040-itpm-assignment1.git
+https://github.com/akeeth-M/test_automation_ui.git
